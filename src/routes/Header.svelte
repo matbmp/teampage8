@@ -35,7 +35,7 @@
             <div class="flex flex-col justify-center">
                 <div class="text-slate-100 lg:py-32 py-6 lg:px-72 px-12" style="z-index:1;">
                     <div
-                        class="bg-sky-700/25 border-4 border-slate-900/50 rounded-2xl p-10"
+                        class="bg-sky-300 text-black rounded-2xl p-10"
                     >
                         <span class="lg:text-9xl text-6xl font-light">MediCase</span
                         >
@@ -43,8 +43,7 @@
                             Nasza aplikacja służy do nauki treści medycznych oraz
                             umożliwia przeprowadzanie symulacji wywiadu z pacjentem
                             w wybranych językach, aktualnie polski oraz angielski.
-                            Nauka odbywa się za pomocą interaktywnych sposobów, np.
-                            fiszek czy uzupełnianie treści w tekście.
+                            Nauka obejmuje przegląd treści tekstowych, audio i video oraz testowanie zdobytej wiedzy.
                         </div>
                     </div>
                 </div>
